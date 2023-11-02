@@ -1,1 +1,1 @@
-This section contains such important templete or codes of algorithm
+This section contains such important templete or codes of CP algorithm
