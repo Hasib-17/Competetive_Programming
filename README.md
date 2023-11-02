@@ -1,1 +1,1 @@
-# Hasib-17.github.io
+This section contains such important templete or codes of algorithm
