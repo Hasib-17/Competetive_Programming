@@ -32,7 +32,7 @@ ll binary_exponential(ll a, ll b)
     ll res = 1;
     while (b)
     {
-        if (b % 2)
+        if (b & 1)
             res = (res * a * 1LL) % mod;
         a = (a * a * 1LL) % mod;
         b = (b >> 1);
